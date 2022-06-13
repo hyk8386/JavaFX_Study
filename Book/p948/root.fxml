@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<HBox xmlns:fx="http://javafx.com/fxml"
+alignment="CENTER" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="50.0" prefWidth="400.0" spacing="20.0">
+   <children>
+      <Label style="-fx-label-padding: 5; -fx-background-color: black; -fx-text-fill: yellow;" text="검정바탕,노란글씨" />
+      <Label style="-fx-label-padding: 5; -fx-background-color: blue; -fx-text-fill: white;" text="파란바탕,흰글씨" />
+      <Label style="-fx-label-padding: 5; -fx-background-color: blue; -fx-text-fill: white;" text="파란바탕,흰글씨" />
+   </children>
+</HBox>
